@@ -8,7 +8,7 @@ import (
 	"sync"
 
 	"github.com/neovim/go-client/nvim"
-	"github.com/tweekmonster/nmux/screen"
+	"github.com/metalelf0/nmux/screen"
 )
 
 const (

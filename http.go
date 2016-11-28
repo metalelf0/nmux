@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/tweekmonster/nmux/screen"
+	"github.com/metalelf0/nmux/screen"
 
 	"golang.org/x/net/websocket"
 )
